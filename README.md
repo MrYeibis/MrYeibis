@@ -5,7 +5,7 @@
 
 # My Profile!
 
-Hello i'm Sebastian Rojas. I'm from Cali/Colombia. I have 17 years old.
+Hello I'm Sebastian Rojas. I'm from Cali, Colombia. I have 16 years old.
 
 <b><h3>Technologies that I use:<h3/><b/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
