@@ -1,3 +1,4 @@
+# Welcome to my GitHub homepage
 
 [![Header](https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif)]()
 
@@ -5,7 +6,7 @@
 
 # My Profile!
 
-Hello I'm Sebastian Rojas. I'm from Colombia. I have 16 years old.
+Hey there! This is Sebastian, from Colombia :colombia:. I'm 16 years old and i like programming.
 
 <b><h3>Technologies that I use:<h3/><b/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
