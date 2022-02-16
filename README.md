@@ -5,7 +5,7 @@
 
 # My Profile!
 
-Hello I'm Sebastian Rojas. I'm Colombia. I have 16 years old.
+Hello I'm Sebastian Rojas. I'm from Colombia. I have 16 years old.
 
 <b><h3>Technologies that I use:<h3/><b/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
