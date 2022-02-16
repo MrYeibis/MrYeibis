@@ -1,7 +1,7 @@
 ## ⚡ Technologies
 
 
-[![Header](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
+[![Header](https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif)]()
 
 &nbsp;
 
