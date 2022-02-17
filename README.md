@@ -6,7 +6,7 @@
 
 # My Profile!
 
-Hey there! This is Sebastian, from Colombia 🇨🇴. I'm 16 years old and i like programming.
+Hey there! This is Sebastian, from Colombia 🇨🇴. I'm 16 years old and I like programming.
 
 <b><h3>Technologies that I use:<h3/><b/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
